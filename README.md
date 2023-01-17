@@ -1,43 +1,148 @@
+# README template
+
 <h1 align="center">
   <br>
   <a href="https://openpecha.org"><img src="https://avatars.githubusercontent.com/u/82142807?s=400&u=19e108a15566f3a1449bafb03b8dd706a72aebcd&v=4" alt="OpenPecha" width="150"></a>
   <br>
 </h1>
 
-<h3 align="center">Template</h3>
+## _Project Name_
+_The project name should match its capability so that new users can easily understand what it does._
+
+## Owner(s)
+
+_Change to the owner(s) of the new repo_
+- [@ngawangtrinley](https://github.com/ngawangtrinley)
+- [@mikkokotila](https://github.com/mikkokotila)
+- [@evanyerburgh](https://github.com/evanyerburgh)
 
 
-<!-- Replace the title of the repository -->
-
+## Table of contents
 <p align="center">
-  <a href="#description">Description</a> •
-  <a href="#owner">Owner</a> •
-  <a href="#integrations">Integrations</a> •
-  <a href="#docs">Docs</a>
+  <a href="#project-description">Project description</a> •
+  <a href="#who-this-project-is-for">Who this project is for</a> •
+  <a href="#project-dependencies">Project dependencies</a> •
+  <a href="#instructions-for-use">Instructions for use</a> •
+  <a href="#contributing-guidelines">Contributing guidelines</a> •
+  <a href="#additional-documentation">Additional documentation</a> •
+  <a href="#how-to-get-help">How to get help</a> •
+  <a href="#terms-of-use">Terms of use</a>
 </p>
 <hr>
 
-## Description
+## Project description
+_The README template guide includes information on how to write a project description and a project description. Here are some examples of effective phrases for describing a project._
 
-The template repo to be used across all repos.
+With _Project Name_ you can _verb_ _noun_...
 
-<!-- This section provides a high-level overview for the repo -->
+_Project Name_ helps you _verb_ _noun_...
 
-## Owner
 
-- [@ngawangtrinley](https://github.com/ngawangtrinley)
-- [@mikkokotila](https://github.com/mikkokotila)
+## Who this project is for
+This project is intended for _target user_ who wants to _user objective_.
 
-<!-- This section lists the owners of the repo -->
 
-## Integrations
+## Project dependencies
+Before using _Project Name_, ensure you have:
+* _Prerequisite 1_
+* _Prerequisite 2_
+* _Prerequisite 3..._
 
-- No integrations with other repos.
 
-<!-- This section must list as bulleted list how this repo depends or is integrated with other repos -->
+## Instructions for use
+Get started with _Project Name_ by _(write the first step a user needs to start using the project. Use a verb to start.)_.
 
-## Docs
 
-No documentations.
+### Install _Project Name_
+1. _Write the step here._ 
 
-<!-- This section must link to the docs which are in the root of the repository in /docs -->
+    _Explanatory text here_ 
+    
+    _(Optional: Include a code sample or screenshot that helps your users complete this step)_
+
+2. _Write the step here._
+ 
+    a. _Substep 1_ 
+    
+    b. _Substep 2_
+
+
+### Configure _Project Name_
+1. _Write the step here._
+2. _Write the step here._
+
+
+### Run _Project Name_
+1. _Write the step here._
+2. _Write the step here._
+
+
+### Troubleshoot _Project Name_
+1. _Write the step here._
+2. _Write the step here._
+
+<table>
+  <tr>
+   <td>
+    Issue
+   </td>
+   <td>
+    Solution
+   </td>
+  </tr>
+  <tr>
+   <td>
+    _Describe the issue here_
+   </td>
+   <td>
+    _Write solution here_
+   </td>
+  </tr>
+  <tr>
+   <td>
+    _Describe the issue here_
+   </td>
+   <td>
+    _Write solution here_
+   </td>
+  </tr>
+  <tr>
+   <td>
+    _Describe the issue here_
+   </td>
+   <td>
+    _Write solution here_
+   </td>
+  </tr>
+</table>
+
+
+
+Other troubleshooting supports:
+* _Link to FAQs_
+* _Link to runbooks_
+* _Link to other relevant support information_
+
+
+## Contributing guidelines
+_Include a link to your contributing guide here. If you do not have a contributing guide, incorporate the information in the README._
+
+
+## Additional documentation
+_Include links and brief descriptions to additional documentation. Examples provided in README template guide._
+
+For more information:
+* [Reference link 1](#)
+* [Reference link 2](#)
+* [Reference link 3](#)
+
+
+## How to get help
+{Include links and brief descriptions for support resources. Examples provided in README template guide.}
+* [Reference link 1](#)
+* [Reference link 2](#)
+* [Reference link 3](#)
+
+
+## Terms of use
+_Project Name_ is licensed under [link to license file]().
