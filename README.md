@@ -131,7 +131,7 @@ Other troubleshooting supports:
 
 
 ## Contributing guidelines
-If you'd like to help out, check out our [contributing guidelines](/CONTRIBUTING).
+If you'd like to help out, check out our [contributing guidelines](/CONTRIBUTING.md).
 
 
 ## Additional documentation
