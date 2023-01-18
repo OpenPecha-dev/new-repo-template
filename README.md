@@ -1,4 +1,6 @@
-# README template
+# README
+
+> **Note:** This readme template is based on one from the [Good Docs Project](https://thegooddocsproject.dev). You can find it and a guide to filling it out [here](https://gitlab.com/tgdp/templates/-/tree/main/readme). (_Erase this note after filling out the readme._)
 
 <h1 align="center">
   <br>
@@ -7,11 +9,11 @@
 </h1>
 
 ## _Project Name_
-_The project name should match its capability so that new users can easily understand what it does._
+_The project name should match its code's capability so that new users can easily understand what it does._
 
 ## Owner(s)
 
-_Change to the owner(s) of the new repo_
+_Change to the owner(s) of the new repo. (This template's owners are:)_
 - [@ngawangtrinley](https://github.com/ngawangtrinley)
 - [@mikkokotila](https://github.com/mikkokotila)
 - [@evanyerburgh](https://github.com/evanyerburgh)
@@ -31,7 +33,7 @@ _Change to the owner(s) of the new repo_
 <hr>
 
 ## Project description
-_The README template guide includes information on how to write a project description and a project description. Here are some examples of effective phrases for describing a project._
+_Use one of these:_
 
 With _Project Name_ you can _verb_ _noun_...
 
@@ -58,7 +60,7 @@ Get started with _Project Name_ by _(write the first step a user needs to start 
 
     _Explanatory text here_ 
     
-    _(Optional: Include a code sample or screenshot that helps your users complete this step)_
+    _(Optional: Include a code sample or screenshot that helps your users complete this step.)_
 
 2. _Write the step here._
  
@@ -117,7 +119,6 @@ Get started with _Project Name_ by _(write the first step a user needs to start 
 </table>
 
 
-
 Other troubleshooting supports:
 * _Link to FAQs_
 * _Link to runbooks_
@@ -129,7 +130,7 @@ _Include a link to your contributing guide here. If you do not have a contributi
 
 
 ## Additional documentation
-_Include links and brief descriptions to additional documentation. Examples provided in README template guide._
+_Include links and brief descriptions to additional documentation._
 
 For more information:
 * [Reference link 1](#)
@@ -138,7 +139,7 @@ For more information:
 
 
 ## How to get help
-{Include links and brief descriptions for support resources. Examples provided in README template guide.}
+_Include links and brief descriptions for support resources._
 * [Reference link 1](#)
 * [Reference link 2](#)
 * [Reference link 3](#)
