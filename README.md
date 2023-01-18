@@ -131,7 +131,7 @@ Other troubleshooting supports:
 
 
 ## Contributing guidelines
-_Include a link to your contributing guide here. If you do not have a contributing guide, incorporate the information in the README._
+If you'd like to help out, check out our [contributing guidelines](/CONTRIBUTING).
 
 
 ## Additional documentation
@@ -144,11 +144,10 @@ For more information:
 
 
 ## How to get help
-_Include links and brief descriptions for support resources._
-* [Reference link 1](#)
-* [Reference link 2](#)
-* [Reference link 3](#)
+* File an issue.
+* Email us at openpecha[at]gmail.com.
+* Join our [discord](https://discord.com/invite/7GFpPFSTeA).
 
 
 ## Terms of use
-_Project Name_ is licensed under [link to license file]().
+_Project Name_ is licensed under the [MIT License](/LICENSE.md).
